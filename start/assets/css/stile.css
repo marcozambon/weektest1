@@ -1,0 +1,135 @@
+html,
+body {
+
+    width: 100%;
+
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5em;
+    text-align: center;
+    box-align: center;
+    align-self: center;
+}
+
+div#logo {
+    width: 100%;
+    background-color: black;
+    padding: 30px;
+}
+
+header {
+    background-image: url(../images/banner.jpg);
+    background-color: gray;
+    background-position: center;
+    background-size: cover;
+    line-height: 1.65em;
+    font-size: 1.2rem;
+    padding-bottom: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+header p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+header h1 {
+    color: rgb(82, 167, 198);
+    padding-top: 20px;
+    padding: 50px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5em;
+}
+
+h2 {
+    color: rgb(82, 167, 198);
+    padding: 40px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5em;
+}
+
+header a {
+    background-color: #f04c2f;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    color: white;
+    border-radius: 5px;
+    text-transform: uppercase;
+    border: none;
+    padding: 20px;
+    font-size: medium;
+    text-decoration: none;
+}
+
+#notebook {
+    border-radius: 50%;
+    padding: 40px;
+}
+
+article {
+    background-color: #e22d0e;
+    color: white;
+}
+
+article h2 {
+    color: white;
+    font-weight: bold;
+}
+
+article p {
+    font-style: italic;
+    line-height: 1.65em;
+    font-size: 20px;
+}
+
+cite {
+    display: block;
+    padding: 30px;
+    font-style: normal;
+    font-size: larger;
+}
+
+main div {
+    background-color: white;
+    border-radius: 0px 0px 5px 5px;
+    border: 2px solid #dee1e3;
+    margin: 30px;
+    font-size: 30px;
+}
+
+main img {
+    width: 100%;
+}
+
+p {
+    padding: 40px
+}
+
+footer {
+    color: #c8e7f0;
+    background-color: #25a2c3;
+}
+
+ul {
+    color: white;
+    line-height: 1.65em;
+}
+
+a {
+    color: white
+}
+
+
+h1 {
+    font-weight: bold;
+    padding: 40px;
+    color: white;
+}
+
+hr {
+    color: white;
+    width: 60%;
+    border: 1px solid white;
+}
